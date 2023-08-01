@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #211c3e;
+  color:aliceblue;
+}
+
+.main-container {
+  width: 90%;
+  margin: 50px auto;
+}
+
+button {
+  outline:0;
+  border: 1px solid whitesmoke ;
+  padding: 7px;
+  border-radius: 5px;
+  background-color: rgb(87, 79, 96);
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(61, 107, 107);
+}
+

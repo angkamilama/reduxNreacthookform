@@ -1,0 +1,10 @@
+
+.name_display {
+    margin: 40px auto;
+}
+.name {
+    color: rgb(103, 106, 202);
+    display: block;
+    margin: 10px auto;  
+    font-size: 22px;
+}
