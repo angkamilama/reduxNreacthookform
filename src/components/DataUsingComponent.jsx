@@ -20,7 +20,7 @@ const fetchData = useSelector((state) => {
 return (
     <>
         <h2>This  is data using component</h2>
-        <p>{fetchData}</p>
+        {fetchData}
     </>
 )
 }
